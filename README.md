@@ -18,7 +18,7 @@ Machine Learning Foundation Mini Project
  
 | Feature | Description |
 | ------- | ----------- |
-| Dte | time year-month-day hour:minute:second |
+| Date | time year-month-day hour:minute:second |
 | Temperature | In Celsius |
 | Relative Humidity | % |
 | Light | in Lux |
