@@ -15,20 +15,21 @@ Machine Learning Foundation Mini Project
  <h3> Dataset Name: <font color=#cca300>Occupancy Detection Dataset</font> </h3>
  <h3> Dataset Url: 'https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+'</h3>
  <h3>Dataset Attribute Information:</h3>
-
->date- &emsp; time year-month-day hour:minute:second<br>
-Temperature- &emsp; in Celsius<br>
-Relative Humidity- &emsp; %<br>
-Light-  &emsp; in Lux<br>
-CO2-  &emsp; in ppm<br>
-Humidity Ratio-  &emsp; Derived quantity from temperature </font><br>
-relative humidity- &emsp; in kgwater-vapor/kg-air</font><br>
-Occupancy- &emsp; 0 or 1, 0 for not occupied,  1 for occupied status 
+ 
+| Feature | Description |
+| ------- | ----------- |
+| Dte | time year-month-day hour:minute:second |
+| Temperature | In Celsius |
+| Relative Humidity | % |
+| Light | in Lux |
+| CO2 | in ppm |
+| Humidity Ration | Derived Quantity from temperature |
+| relative humidity | in kgwater-vapor/kg-air |
+| Occupancy | 0 or 1, 0 for not occupied,  1 for occupied status| 
 
 
 ***
 
 - ### Abstract view of dataset
-
-<img src = "MinorProjectDataset.png", alt="Abstract view of dataset", title= "Dataset Abstracts">
+![Screenshot](MinorProjectDataset.png)
   
