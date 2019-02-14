@@ -16,14 +16,14 @@ Machine Learning Foundation Mini Project
  <h3> Dataset Url: 'https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+'</h3>
  <h3>Dataset Attribute Information:</h3>
 
-><h3>date- <font color=#008000> &emsp; *time year-month-day hour:minute:second*</font><br>
-Temperature- <font color=#008000> &emsp; *in Celsius*</font><br>
-Relative Humidity- <font color=#008000> &emsp; *%*</font><br>
-Light- <font color=#008000> &emsp; *in Lux*</font><br>
-CO2- <font color=#008000> &emsp; *in ppm*</font><br>
-Humidity Ratio- <font color=#008000> &emsp; *Derived quantity from temperature* </font><br>
-relative humidity- <font color=#008000> &emsp; *in kgwater-vapor/kg-air*</font><br>
-Occupancy- <font color=#008000> &emsp; *0 or 1, <font color= orange> 0</font> for not occupied, <font color=orange> 1</font> for occupied status*</font> </h3>
+>date- &emsp; time year-month-day hour:minute:second<br>
+Temperature- &emsp; in Celsius<br>
+Relative Humidity- &emsp; %<br>
+Light-  &emsp; in Lux<br>
+CO2-  &emsp; in ppm<br>
+Humidity Ratio-  &emsp; Derived quantity from temperature </font><br>
+relative humidity- &emsp; in kgwater-vapor/kg-air</font><br>
+Occupancy- &emsp; 0 or 1, 0 for not occupied,  1 for occupied status 
 
 
 ***
