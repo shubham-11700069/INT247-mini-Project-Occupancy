@@ -31,5 +31,4 @@ Machine Learning Foundation Mini Project
 ***
 
 - ### Abstract view of dataset
-![alt tag](https://github.com/shubham-11700069/INT247-mini-Project-Occupancy/MinorProjectDataset.jpg)
-  
+![alt tag](https://github.com/shubham-11700069/INT247-mini-Project-Occupancy/blob/master/MinorProjectDataset.jpg)
